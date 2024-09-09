@@ -1,0 +1,10 @@
+package main
+
+import "fmt"
+
+func main(){
+	number1 := 3
+	number2 := 4
+	number3 := number1 + number2
+	fmt.Println(number3)
+}
